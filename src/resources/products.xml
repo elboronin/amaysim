@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<products>
+	<ult_small>
+		<name>Unlimited 1 GB</name>
+		<unit_price>24.90</unit_price>
+	</ult_small>
+	<ult_medium>
+		<name>Unlimited 2 GB</name>
+		<unit_price>29.90</unit_price>
+	</ult_medium>
+	<ult_large>
+		<name>Unlimited 5 GB</name>
+		<unit_price>44.90</unit_price>
+	</ult_large>
+	<one_gb>
+		<name>1 GB Data-pack</name>
+		<unit_price>9.90</unit_price>
+	</one_gb>
+</products>

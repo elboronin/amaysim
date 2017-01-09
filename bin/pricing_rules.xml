@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<pricing_rules>
+	<three_for_two>
+		<product_code>ult_small</product_code>
+		<buy_amount>3</buy_amount>
+		<pay_amount>2</pay_amount>
+	</three_for_two>
+	<bulk_discount>
+		<product_code>ult_large</product_code>
+		<buy_amount>3</buy_amount>
+		<price_after_discount>39.90</price_after_discount>
+	</bulk_discount>
+	<bundle>
+		<product_code>ult_medium</product_code>
+		<buy_amount>1</buy_amount>
+		<product_code_for_bundle>1gb</product_code_for_bundle>
+		<bundled_amount>1</bundled_amount>
+	</bundle>
+	<promo>
+		<promo_code>I&lt;3AMAYSIM</promo_code>
+		<discount>0.1</discount>
+	</promo>
+</pricing_rules>	
